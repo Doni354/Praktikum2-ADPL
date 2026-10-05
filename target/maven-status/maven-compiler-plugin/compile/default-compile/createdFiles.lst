@@ -1,0 +1,7 @@
+com\mycompany\katalogbukumvc\view\BukuView.class
+com\mycompany\katalogbukumvc\model\Buku.class
+com\mycompany\katalogbukumvc\controller\BukuController.class
+com\mycompany\katalogbukumvc\model\BukuModel.class
+com\mycompany\katalogbukumvc\KatalogBukuMVC.class
+com\mycompany\katalogbukumvc\Main.class
+com\mycompany\katalogbukumvc\view\BukuView$1.class
